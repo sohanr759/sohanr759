@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sohanr759
-- 👀 I’m interested in ART
-- 🌱 I’m currently trying to view coding as an art form
-- 💞️ I’m looking to collaborate on projects realted to AI
-- 📫 How to reach me @sohanreddy76@gmail.com
+- Hi, I’m @sohanr759
+- I write code. Sometimes it works. When it doesn’t, I stare at it until it feels bad and fixes itself.
+- Currently a Data Scientist at a healthcare org
+- Trying to not get outperformed by people who discovered coding last week
+- How to reach me 📫 @sohanreddy76@gmail.com
 
 <!---
 sohanr759/sohanr759 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
